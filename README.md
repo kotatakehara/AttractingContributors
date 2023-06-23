@@ -10,3 +10,4 @@
 6. Takumi Kitamura
 7. mai hukagawa
 8. Dwayne Jhonson
+9. Ryunosuke Kamiki
