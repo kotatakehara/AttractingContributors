@@ -28,3 +28,4 @@ Goal - I want to know the companies you want to work
 8.　SOD　　　　　  
 9.　apple　　　　　　  
 10.　CyberAgent
+11. NRI Secure
